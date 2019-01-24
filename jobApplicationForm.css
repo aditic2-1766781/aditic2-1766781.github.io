@@ -26,14 +26,14 @@
 
 input[type=text] {
   border: none;
-  border-bottom: 2px solid green;
+  border-bottom: 3px solid green;
 }
 
 
 
 input[type=password] {
   border: none;
-  border-bottom: 2px solid green;
+  border-bottom: 3px solid green;
 }
 
 input[type=password]:focus {
